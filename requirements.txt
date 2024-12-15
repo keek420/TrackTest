@@ -1,0 +1,4 @@
+flask
+flask-httpauth
+gunicorn
+psycopg2-binary
